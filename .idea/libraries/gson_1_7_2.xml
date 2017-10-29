@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="gson-1.7.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jar_files/gson-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/asm-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jackson-jaxrs-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jackson-xc-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jersey-client-1.18.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jersey-core-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jersey-json-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jersey-server-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jersey-servlet-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jettison-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jsr311-api-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
